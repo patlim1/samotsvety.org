@@ -1,1 +1,3 @@
-https://samotsvety.org:443/test/
+https://samotsvety.org/blog/
+https://samotsvety.org/media-mentions/
+https://samotsvety.org/track-record/
