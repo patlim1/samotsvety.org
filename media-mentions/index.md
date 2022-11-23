@@ -2,7 +2,16 @@
 
 N.B.: We are open to media mentions or collaborations, and can be reached at [info@samotsvety.org](mailto:info@samotsvety.org).
 
-[WIRED: Worried About Nuclear War? Consider the Micromorts](https://www.wired.co.uk/article/micromorts-nuclear-war) covers our group at some length throughout the article.
+Fantastic Anachronism, [Forecasting Forecasting](https://fantasticanachronism.com/2022/11/21/forecasting-forecasting/) ([a](https://web.archive.org/web/20221123112102/https://fantasticanachronism.com/2022/11/21/forecasting-forecasting/
+)):
+
+> Why pay tens of thousands for a prediction market (which takes time and effort to organize) when you can just give a couple of grand to Nuño and get better answers, faster?
+
+> ...
+
+> With the right kind of marketing angle I could easily see Samotsvety becoming a kind of 21st century McKinsey for the hip SV crowd that wants to signal that it needs actual advice rather than political cover.
+
+[WIRED: Worried About Nuclear War? Consider the Micromorts](https://www.wired.co.uk/article/micromorts-nuclear-war) ([a](https://web.archive.org/web/20221030121813/https://www.wired.co.uk/article/micromorts-nuclear-war)) covers our group at some length throughout the article.
 
 > In October, the Samotsvety group updated their predictions. In a [blog post](https://forum.effectivealtruism.org/posts/2nDTrDPZJBEerZGrk/samotsvety-nuclear-risk-update-october-2022) published on October 3, they estimated that the chance of London being hit with a nuclear weapon in the next three months was now around 0.02 percent. Since their previous prediction only covered a single month, it’s hard to directly compare these forecasts in terms of micromorts, but [Sempere estimates](https://www.squiggle-language.com/playground/#code=eNqVU8lu20AM%2FRXCpzaotwIGCiM9dAkKo01SwHZz0WUsURKREanOYsMI8u%2BlFieu06TIRRpuj%2B9xOHcDX8puGavKuP1gHlzEd63rIqMg7uAhpkDGLn9HKgqLy%2BCIi8F8MB7DJaVOKnEB0AeqTEAPOwolTKES1v8Gww6RNZwaawIJgw9Y%2B4QT1vqrmFo0DuKtM8SYsIuezNqj7yM3aGphv%2BB1lwEfYTKaTGYQpDnMOhQJCKE0QT8INTqSDCQHZYRAHizmASL7GlPKCbOT5lefVtcJPzK8jsFThn3Hb7TFQ%2Fcbo7xuMetYTDsS0xmAop0PISdrh8THWCtp0NecCutM1WGsFv9X5VnCAK9h9A9JDTvu7R%2FaXnis2aXeXRDN3lCx%2Fr5efqGwbxFa1ItnWnaC%2B6m%2Ff6L3COtU6sujOING6Kuo9EoXVW3SAMRgxQcoJTpdKrOxuJKmtMbPmIvrmPfEP5zyrg7r6zXtWRHtZbyZwhCewr8F1TC9bCn9dLLRjD0UovunHY318vAwgDISv%2BfUqagUcmUvzoOPaQnGQ4swhIXG0XhdMXGQ4cGonWQxDbRVco1mA6meXq6hhwn9lf3L2Ija0VPB2NL00W0VmYsudyfOZmDygE6twwbtiNXRY4xGo%2BYaWusr%2BdoaRb9rxgTwONP50bmLJXw%2FuP8DtRGUZA%3D%3D) that their projected risk for a Londoner over the next one-to-three months may now be around 40 micromorts
 
