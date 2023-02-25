@@ -1,17 +1,17 @@
-Moore v Harper Draft Post
-==========================
+[DRAFT] Report on Moore v. Harper and the future of US democracy
+================================================================
 
-_Disclaimer: none of this should be construed as legal advice, and the author is not a lawyer_
+Warning: The author, Greg Justice, is an [excellent forecaster](https://samotsvety.org/track-record/), not a lawyer. This post should not be interpreted as legal advice. 
 
-## Intro
+### Introduction
 
 The _Moore v. Harper_ case before SCOTUS asks to what degree state courts can interfere with state legislatures in the drawing of congressional district maps. Versions of the legal theory they're being asked to rule on were invoked as part of the attempts to overthrow the 2020 election, leading to widespread media coverage of the case. The ruling here will have implications for myriad state-level efforts to curb partisan gerrymandering.
 
 Below, we first discuss the Independent State Legislature theory and _Moore v. Harper_. We then offer a survey of how the justices have ruled in related cases, what some notable conservative sources have written, and what the justices said in oral arguments. Finally, we offer our own thoughts about some potential outcomes of this case and their consequences for the future.
 
-## Background
+### Background
 
-### What is the independent state legislature theory?
+#### What is the independent state legislature theory?
 
 Independent State Legislature theory or doctrine (ISL) generally holds that state legislatures have unique power to determine the rules around elections. There are a range of views that fall under the term ISL, ranging from the idea that state courts' freedom to interpret legislation is more limited than it is with other laws, to the idea that state courts and other state bodies lack any authority on issues of federal election law altogether. However, "[t]hese possible corollaries of the doctrine are largely independent of each other, supported by somewhat different lines of reasoning and authority. Although these theories arise from the same constitutional principle, each may be assessed separately from the others; the doctrine need not be accepted or repudiated wholesale."[^1]
 
@@ -25,7 +25,7 @@ The doctrine is rooted in a narrow reading of Article I Section 4 Clause 1 (the 
 
 The doctrine, which governs the actions of state courts, is of particular importance to partisan gerrymandering given SCOTUS's prior ruling that partisan gerrymandering is beyond the reach of federal courts.[^4] Some extreme interpretations of ISL would deem state constitutional amendments imposing standards for redistricting, like those in Florida[^5] and Ohio,[^6] or amendments requiring redistricting to be done by an independent commission, as is done in states like Arizona[^7] and Michigan,[^8] as unenforceable by state courts. State legislatures in that scenario may be able to gerrymander with far more freedom than they currently have.[^9]
 
-### What is *Moore v. Harper* about?
+#### What is *Moore v. Harper* about?
 
 The sequence of key events leading to the current case is as follows:
 
@@ -43,13 +43,13 @@ In response, Timothy Moore, the Speaker of the NC House of Representatives, requ
 
 SCOTUS agreed to hear the case but did not stay the lower courts' orders. The denial of a stay included two opinions, one from Kavanaugh concurring, and one from Alito joined by Thomas and Gorsuch dissenting. 
 
-### What is the legal question posed in _Moore v. Harper_?
+#### What is the legal question posed in _Moore v. Harper_?
 
 The exact question requested by Moore that SCOTUS agreed to hear is as follows:
 
 > Whether a State's judicial branch may nullify the regulations governing the "Manner of holding Elections for Senators and Representatives . . . prescribed . . . by the Legislature thereof," U.S. CONST. art. I, &sect; 4, cl. 1, and replace them with regulations of the state courts' own devising, based on vague state constitutional provisions purportedly vesting the state judiciary with power to prescribe whatever rules it deems appropriate to ensure a "fair" or "free" election.[^16] 
 
-### What have conservative justices said prior to this case?
+#### What have conservative justices said prior to this case?
 
 Conservative justices, including some currently on the bench, have voiced their opinions on similar issues in previous rulings and dissents. Their line has been that state legislatures bear primary, but not necessarily sole, responsibility for election law. 
 
@@ -88,7 +88,7 @@ The orders for the Pennsylvania[^21] and Texas[^22] are linked in the footnotes,
 
 Some of the worries around this case are that it's part of a plot to overthrow a future election. However, it's worth noting that SCOTUS has already been asked to do that, and they've refused the cases with almost no written dissent.
 
-### What have conservative groups written?
+#### What have conservative groups written?
 
 A good place to start is the petitioner, Timothy Moore. What he's not asking for, at least not openly, is a more expansive version of ISL:
 
@@ -106,7 +106,7 @@ The NRRT's brief on the other hand focuses on outlining when state courts can an
 
 So neither conservative group is asking for state courts to be cut out of the lawmaking process. Instead, they're asking for specific standards around when it's acceptable for a state court to intervene and/or what remedies they're allowed to issue.
 
-### What was said in oral arguments?
+#### What was said in oral arguments?
 
 Here we'll break down each judge's questions from oral arguments. Firstly though, some background on what different cases refer to, very broadly:
 
@@ -222,13 +222,13 @@ Here we'll break down each judge's questions from oral arguments. Firstly though
 * Solicitor General
     * Jackson clarified with the SG that SCOTUS doesn't need to articulate the sky-high standard that's been discussed because petitioners aren't pressing for it, they can just reject the substance/procedure distinction being pushed. She also continued her prior argument that a legislature making unconstitutional laws isn't a legislature. 
 
-## Forecasts
+### Forecasts
 
-### Notes 
+#### Notes 
 
 There are a wide variety of possible rulings that SCOTUS could issue, including restrictions on the sources and methods state courts can use to interpret state laws, restrictions on when state courts can intervene, and restrictions on actions that state courts can take. This makes it difficult to define narrow questions on the outcome of the case that can be numerically forecasted. Instead, we seek to bucket some of the likely rulings and forecast those buckets.
 
-### Will the court rule that the North Carolina courts erred in striking down and/or replacing the North Carolina district maps?
+#### Will the court rule that the North Carolina courts erred in striking down and/or replacing the North Carolina district maps?
 
 Forecast: 81%
 
@@ -260,9 +260,9 @@ For the individual judges:
 
 With three near-certain votes in Alito/Thomas/Gorsuch, two of Barrett/Kavanaugh/Roberts is needed to form a majority. Importantly, those two or three votes don't need to join the other three conservatives' opinion, the majority opinion could be a moderate ruling that Barrett/Kavanaugh/Roberts author, with a more extreme but non-controlling concurring opinion from the other three. We assume that rulings are independent, so our probability for a ruling against the NCSC is **81%**, very close to the base rate for state court cases before SCOTUS.
 
-## Concerns for the Future
+### Concerns for the Future
 
-### If SCOTUS Upholds the NC Supreme Court's Actions: **Election legitimacy**
+#### If SCOTUS Upholds the NC Supreme Court's Actions: **Election legitimacy**
 
 One of the most concerning futures for US politics is if large numbers of reasonable people don't feel their elections are fair. One conservative argument in this case is that if the NCSC's actions stand, blatantly partisan rulings from other courts in aggregate may jeopardize that trust.
     
@@ -272,7 +272,7 @@ For North Carolinians specifically, this opinion probably won't jeopardize trust
 
 This has always been a possibility in a federalist system, but in an increasingly polarized political environment with many states electing judges,[^38] it may be more likely to occur without SCOTUS intervention. Partisan gamesmanship in election law is unfortunately to be expected by partisan legislatures. But courts are intended to be a neutral third party, with decisions bound by constitutions and precedent, not the political opinions of justices. Some subjectivity is inevitable, but naked partisanship deciding election results or the balance of power in Congress will likely degrade respect for the courts as a (at least somewhat) neutral and nonpolitical body.
 
-### If SCOTUS allows for federal court review of state court decisions: **Gerrymandering** 
+#### If SCOTUS allows for federal court review of state court decisions: **Gerrymandering** 
 
 The most immediate effect of such a ruling would most likely be to enable partisan gerrymandering in more states. At least 17 states had state court lawsuits either challenging their 2020 federal maps under their respective state constitutions or asking the state court to resolve a political impasse in map drawing,[^39] all of which may be affected depending on the ruling and/or subject to appeal in federal court. 21% of districts in the 2022 midterms were eventually drawn by state courts.[^40] Given the discussion in oral arguments, a SCOTUS ruling would most likely seek to empower state legislators to draw maps, and in practice they draw fewer competitive districts.[^41] 
 
@@ -280,7 +280,7 @@ Gerrymandering is obviously a bad practice, but there are mitigating factors her
 
 That leaves the issue of disproportionate representation, in this case Republicans comprising 50% of votes but getting 70% of seats (absent court intervention). For any individual state this is bad, but gerrymandering is used by both parties. The effect in the 2022 midterms appeared to be a bump of only +4 to Republicans, though that did end up mattering a lot in this particular cycle.[^42] Timothy Moore appears to recognize his argument as a double-edged sword, saying "a wise person recognizes that an argument or rule that benefits one's political side of the aisle today is something that can hurt their side of the aisle tomorrow."[^43] 
 
-### Any ruling: **Erosion of shared values**
+#### Any ruling: **Erosion of shared values**
 
 Opposition to gerrymandering is a point of unity among Americans, and it demonstrates our widely held belief in fair elections. The cynical view presented by Gorsuch and Thomas is that political views on gerrymandering "[depend] on whose ox is being gored at what particular time." That may not be entirely wrong. But many people have voted to restrict their own party's ability to gerrymander, which is remarkable.
 
@@ -288,14 +288,18 @@ It was put most aptly by Mr. Verrilli in oral arguments:
 
 > If I could, there's just one last point I would like to make about whose ox is being gored here, which I think is quite important.
 > 
-> Actually, there's a great deal of sentiment in this country about the problems with extreme partisan gerrymandering and this Court's opinion in _Rucho _acknowledged it. And states have actually responded in nonpartisan ways. I can think of four states, New York, Florida, California and Ohio, all of which are in the control of one political party where presumably the incentives would have been lined up to maximize partisan advantage through the redistricting process, but in all four of those states they amended their constitutions through the work of the people to restrict partisan gerrymandering and those provisions have been enforced. I mean, the provision was enforced in New York, of course, just earlier this year.
+> Actually, there's a great deal of sentiment in this country about the problems with extreme partisan gerrymandering and this Court's opinion in _Rucho_ acknowledged it. And states have actually responded in nonpartisan ways. I can think of four states, New York, Florida, California and Ohio, all of which are in the control of one political party where presumably the incentives would have been lined up to maximize partisan advantage through the redistricting process, but in all four of those states they amended their constitutions through the work of the people to restrict partisan gerrymandering and those provisions have been enforced. I mean, the provision was enforced in New York, of course, just earlier this year.
 > 
 > And so I do think it is more than whose ox is being gored. This is a really important issue in this country.[^44]
 
 Courts and legislatures are subject to different norms in different states, but they're ultimately both made of people. Favoring one or the other isn't inherently good or bad, and there are concerns with rulings going either way. An evaluation of the eventual ruling in this case shouldn't focus too heavily on which side was favored, but should rather focus on whether the balance of power it leads to will favor freer and fairer elections in the future.
 
+### Acknowledgments 
+
+This post was written by Greg Justice, in collaboration with @belikewater. Thanks to Samotsvety forecasters for contributing their forecasts, and to [to do add]  for their comments and suggestions.
+
 <!-- Footnotes themselves at the bottom. -->
-## Footnotes
+### Footnotes
 
 [^1]: [http://fordhamlawreview.org/wp-content/uploads/2021/11/Morley_November.pdf](http://fordhamlawreview.org/wp-content/uploads/2021/11/Morley_November.pdf)
 
@@ -305,9 +309,9 @@ Courts and legislatures are subject to different norms in different states, but 
 
 [^4]: [https://www.scotusblog.com/case-files/cases/rucho-v-common-cause-2/](https://www.scotusblog.com/case-files/cases/rucho-v-common-cause-2/) 
 
-[^5]: [https://ballotpedia.org/Florida_Congressional_District_Boundaries,_Amendment_6_(2010)](https://ballotpedia.org/Florida_Congressional_District_Boundaries,_Amendment_6_(2010)) 
+[^5]: [https://ballotpedia.org/Florida_Congressional_District_Boundaries,_Amendment_6_(2010)](https://ballotpedia.org/Florida_Congressional_District_Boundaries,_Amendment_6_%282010%29) 
 
-[^6]: [https://ballotpedia.org/Ohio_Issue_1,_Congressional_Redistricting_Procedures_Amendment_(May_2018)](https://ballotpedia.org/Ohio_Issue_1,_Congressional_Redistricting_Procedures_Amendment_(May_2018)) 
+[^6]: [https://ballotpedia.org/Ohio_Issue_1,_Congressional_Redistricting_Procedures_Amendment_(May_2018)](https://ballotpedia.org/Ohio_Issue_1,_Congressional_Redistricting_Procedures_Amendment_%28May_2018%29) 
 
 [^7]: [https://irc.az.gov/about/proposition-106](https://irc.az.gov/about/proposition-106)
 
