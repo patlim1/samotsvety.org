@@ -234,7 +234,7 @@ Forecast: 81%
 
 Firstly as a base rate, we can look at how often SCOTUS overturns the lower court in cases that they hear. For cases coming from state courts, they overturn the state court 76% of the time.[^31] Intuitively this makes sense, a major reason to decide to hear a case is to correct an incorrect judgment. Many cases where SCOTUS agrees with the lower court simply aren't heard.
 
-<img src="https://i.imgur.com/OwjGgaw.png" width="25%">
+<img src="https://i.imgur.com/OwjGgaw.png" class="img-medium-center">
 <figcaption>Source: [Ballotpedia](https://ballotpedia.org/SCOTUS_case_reversal_rates_%282007_-_Present%29)</figcaption>
 
 As for an opinion, we can look to oral arguments, and to the judges individually. In oral arguments overall, there were two main takeaways. Firstly, nobody seemed impressed by the petitioner's argument, and the moderate conservatives in Roberts/Barrett/Kavanaugh seemed quite skeptical. Secondly, the respondents endorsed the idea that SCOTUS has some role to play in reviewing state court interpretations of their constitutions for redistricting cases, though under a very deferential standard. The idea of setting that standard seemed to resonate with Roberts/Barrett/Kavanaugh, as well as Kagan and others. Everyone agreed it should be a high standard, but exactly how high was an area of ambiguity and disagreement. Kagan was worried about a rule not being deferential enough to state courts, Alito worried about one deferring too much.
