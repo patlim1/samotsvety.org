@@ -1,7 +1,7 @@
 [DRAFT] Report on Moore v. Harper and the future of US democracy
 ================================================================
 
-Warning: The author, Greg Justice, is an [excellent forecaster](https://samotsvety.org/track-record/), not a lawyer. This post should not be interpreted as legal advice. 
+Warning: The author, Greg Justice, is an [excellent forecaster](https://samotsvety.org/track-record/), not a lawyer. This post should not be interpreted as legal advice. This writeup is still in progress, and the author is looking for a good venue to publish it in.
 
 ### Introduction
 
