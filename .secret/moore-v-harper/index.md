@@ -226,6 +226,8 @@ Here we'll break down each judge's questions from oral arguments. Firstly though
 
 #### Notes 
 
+The following probabilities are contingent on SCOTUS issuing a ruling on this case. An updated numerical forecast on that happening, particularly in light of the NC Supreme Court's decision to rehear *Harper v Hall*, is forthcoming.
+
 There are a wide variety of possible rulings that SCOTUS could issue, including restrictions on the sources and methods state courts can use to interpret state laws, restrictions on when state courts can intervene, and restrictions on actions that state courts can take. This makes it difficult to define narrow questions on the outcome of the case that can be numerically forecasted. Instead, we seek to bucket some of the likely rulings and forecast those buckets.
 
 #### Will the court rule that the North Carolina courts erred in striking down and/or replacing the North Carolina district maps?
@@ -280,7 +282,7 @@ Gerrymandering is obviously a bad practice, but there are mitigating factors her
 
 That leaves the issue of disproportionate representation, in this case Republicans comprising 50% of votes but getting 70% of seats (absent court intervention). For any individual state this is bad, but gerrymandering is used by both parties. The effect in the 2022 midterms appeared to be a bump of only +4 to Republicans, though that did end up mattering a lot in this particular cycle.[^42] Timothy Moore appears to recognize his argument as a double-edged sword, saying "a wise person recognizes that an argument or rule that benefits one's political side of the aisle today is something that can hurt their side of the aisle tomorrow."[^43] 
 
-#### Any ruling: **Erosion of shared values**
+#### Any ruling: **Implications for how free and fair elections are ensured**
 
 Opposition to gerrymandering is a point of unity among Americans, and it demonstrates our widely held belief in fair elections. The cynical view presented by Gorsuch and Thomas is that political views on gerrymandering "[depend] on whose ox is being gored at what particular time." That may not be entirely wrong. But many people have voted to restrict their own party's ability to gerrymander, which is remarkable.
 
@@ -296,7 +298,7 @@ Courts and legislatures are subject to different norms in different states, but 
 
 ### Acknowledgments 
 
-This post was written by Greg Justice, in collaboration with @belikewater. Thanks to Samotsvety forecasters for contributing their forecasts, and to [to do add]  for their comments and suggestions.
+This post was written by Greg Justice, in collaboration with @belikewater. Thanks to Samotsvety forecasters for contributing their thoughts and forecasts, and to Christoph Winter, Aaron Hamlin, and Richard Winger for their comments and suggestions.
 
 <!-- Footnotes themselves at the bottom. -->
 ### Footnotes
