@@ -1,7 +1,13 @@
 [DRAFT] Report on Moore v. Harper and the future of US democracy
 ================================================================
 
-Warning: The author, Greg Justice, is an [excellent forecaster](https://samotsvety.org/track-record/), not a lawyer. This post should not be interpreted as legal advice. This writeup is still in progress, and the author is looking for a good venue to publish it in.
+## Disclaimers
+
+The probabilities listed are contingent on SCOTUS issuing a ruling on this case. An updated numerical forecast on that happening, particularly in light of the NC Supreme Court's decision to rehear *Harper v Hall*, may be forthcoming.
+
+The author of this report, Greg Justice, is an [excellent forecaster](https://samotsvety.org/track-record/), not a lawyer. This post should not be interpreted as legal advice. This writeup is still in progress, and the author is looking for a good venue to publish it in.
+
+You can subscribe to these posts [here](https://samotsvety.org/.subscribe/).
 
 ### Introduction
 
@@ -102,7 +108,7 @@ The RNC made a similar argument to the one petitioners made in oral arguments. T
 
 > **It remains true that "state statutes and state constitutions can provide standards and guidance for state courts to apply." Rucho, 139 S. Ct. at 2507. It is also true, however, that state courts are limited to enforcing the express policy prescriptions of the legislature and procedural limitations&mdash;such as the gubernatorial veto or initiative process&mdash;on the legislature's lawmaking powers**.; See Smiley v. Holm, 285 U.S. 355, 369 (1932); Gore, 531 U.S. at 120 (Rehnquist, C.J., concurring); Ariz. State Legislature, 576 U.S. at 824.8 None of this Court's precedents support the "conclusion that imposing some constraints on the legislature justifies deposing it entirely," in favor of giving a state's lawmaking power to its judiciary. Ariz. State Legislature, 576 U.S. at 841 (Roberts, C.J., dissenting); see also Republican Party v. Boockvar, 141 S. Ct. 1, 2 (2020) (statement of Alito, J., joined by Thomas and Gorsuch, JJ.) (when a state court replaces the policy prescriptions of the legislature with its own, "there is a strong likelihood that the State Supreme Court decision violates the Federal Constitution").[^24]
 
-The NRRT's brief on the other hand focuses on outlining when state courts can and cannot check the actions of the legislature. The first is through "express authorizations'' where a clear standard is outlined in state law. As they note, "**Such express authorizations as exist in New York and as the Rucho Court identified in Missouri, Iowa, and Delaware law codify clear anti-partisan gerrymandering standards that state courts are empowered to enforce.** But it does not logically follow from the Court's recognition that "[p]rovisions in state statutes and state constitutions can provide standards and guidance for state courts to apply" in redistricting cases that all state court attempts to review a state legislature's redistricting authority are automatically constitutionally permissible. Rucho, 139 S. Ct., at 2507." (emphasis added) [^25]
+The NRRT's brief on the other hand focuses on outlining their stance on when state courts can and cannot check the actions of the legislature. The first is through "express authorizations'' where a clear standard is outlined in state law. As they note, "**Such express authorizations as exist in New York and as the Rucho Court identified in Missouri, Iowa, and Delaware law codify clear anti-partisan gerrymandering standards that state courts are empowered to enforce.** But it does not logically follow from the Court's recognition that "[p]rovisions in state statutes and state constitutions can provide standards and guidance for state courts to apply" in redistricting cases that all state court attempts to review a state legislature's redistricting authority are automatically constitutionally permissible. Rucho, 139 S. Ct., at 2507." (emphasis added) [^25]
 
 So neither conservative group is asking for state courts to be cut out of the lawmaking process. Instead, they're asking for specific standards around when it's acceptable for a state court to intervene and/or what remedies they're allowed to issue.
 
@@ -111,22 +117,22 @@ So neither conservative group is asking for state courts to be cut out of the la
 Here we'll break down each judge's questions from oral arguments. Firstly though, some background on what different cases refer to, very broadly:
 
 * _Smiley v. Holm (1932): _SCOTUS ruled that state governors can veto election laws.
-* _Hildebrand: _SCOTUS ruled that state referenda can restrict legislatures in making election laws.
-* Rehnquist's concurrence in _Bush v. Gore (2000)_: Rehnquist argued that SCOTUS can review state court interpretations of state statutes under a deferential standard, although he didn't specify a specific standard.
-* _Bush v. Palm Beach County Canvassing Board (2000): _full meaning is contested, but state court interpretation of state statutes and constitutions at least presents a federal question that SCOTUS can review.
+* _Davis v. Hildebrant (1916)_: _SCOTUS ruled that state referenda can restrict legislatures in making federal election laws.
+* Rehnquist's concurrence in _Bush v. Gore (2000)_: Rehnquist argued that SCOTUS can review state court interpretations of state statutes regarding federal election laws under a deferential standard, although he didn't specify a specific standard.
+* _Bush v. Palm Beach County Canvassing Board (2000): _full meaning is contested, but state court interpretation of state statutes and constitutions regarding federal election laws at least presents a federal question that SCOTUS can review.
 * _Rucho v. Common Cause (2019): _SCOTUS ruled that federal courts can't review partisan gerrymandering cases, because impermissible partisan gerrymandering lacks a clear meaning for judges to apply. However, the ruling did seem to endorse some role for state constitutions and laws restricting legislatures.
 * _Leser v. Garnett (1922): _SCOTUS ruled that some actions by state legislatures can be immune to state restrictions when the function is assigned by the federal government. In that case, the Virginia constitution prohibited women's suffrage, but the Virginia legislature ratified the Nineteenth Amendment granting women suffrage. SCOTUS ruled that that ban couldn't block the legislature's actions because ratification is a function granted by the federal Constitution that "transcends any limitations sought to be imposed by the people of a state."[^26] Petitioners here argue that making state election laws should be seen in a similar way, with authority coming from the Elections Clause.
 
 **Roberts**
 
 * Petitioners
-    * _Smiley _is a big exception to their argument that legislatures are independent, and the gubernatorial vetoes _Smiley _endorsed aren't cleanly procedural vs. substantive.
+    * _Smiley _is a big exception to their argument that legislatures are independent from checks by other state entities, and the gubernatorial vetoes _Smiley _endorsed aren't cleanly procedural vs. substantive.
     * What's the petitioners' back-up argument? Answer: state courts can only apply judicially discoverable and manageable standards for election laws (similar to _Rucho_).
 * Respondents 1 (Katyal)
-    * _Rucho_, which Roberts authored, endorsed constitutions providing "standards and guidance" for legislatures. In the context of that ruling, the NC constitution's vague clauses like "all elections shall be free" may not constitute "standards and guidance,"[^27] and hence would not be endorsed by that ruling.
+    * _Rucho_, which Roberts authored, endorsed constitutions providing "standards and guidance" for legislatures. In the context of that ruling, the NC constitution's vague clauses like "all elections shall be free" may not constitute "standards and guidance"[^27] because of how vague they are, and hence would not be endorsed by that ruling.
     * Respondents citing Rehnquist's concurrence in _Bush v. Gore _saying SCOTUS can intervene feels like respondents ending in a similar place as petitioners.
 * Respondents 2 (Verrilli)
-    * Roberts seems to draw a distinction between vague constitutional clauses and the specific choices that judges make interpreting them.[^28] Constitutional clauses can be vague, which may not be inherently problematic. But modern judges choosing an efficiency gap of x% or appointing special masters to draw maps are very specific actions, much more specific than what judges did near the founding when such vague clauses were endorsed. In other words, modern applications of vague constitutional clauses may run afoul of the Elections clause, even if the clauses themselves don't.
+    * Roberts seems to draw a distinction in terms of permissibility between vague constitutional clauses and the specific choices that judges make interpreting them.[^28] Constitutional clauses can be vague, which may not be inherently problematic. But modern judges choosing an efficiency gap of x% or appointing special masters to draw maps are very specific actions, much more specific than what judges did near the founding when such vague clauses were endorsed. In other words, jumping from a vague clause to a specific numerical efficiency gap requirement is a big leap, and modern applications of vague constitutional clauses like that may run afoul of the Elections clause, even if the clauses themselves don't.
 * Solicitor General
     * (in response to Justice Jackson) This case exists because of tension between the federal Constitution empowering the legislature and state courts constraining them. He notes SCOTUS regularly addresses tensions between state and federal power.
     * He asks if the SG accepts that there's a role for SCOTUS in determining if what a state is doing is ordinary or outrageous? SG response: yes, but highly deferential standard to avoid constant litigation and be consistent with broader doctrine.
@@ -136,7 +142,7 @@ Here we'll break down each judge's questions from oral arguments. Firstly though
 * Petitioners
     * He asked a prefatory question about why SCOTUS is involved in a state law question, answer being that the Elections clause is a federal law empowering legislatures.
 * Respondents 1 (Katyal)
-    * Thomas seems to disagree with the idea that SCOTUS doesn't normally second guess state court interpretations of their constitutions citing _Baker v. Carr_[^29], and questions where the NC Supreme Court's authority is from. He also seems to share a concern with Gorsuch that the ruling would be different if the legislature favored minority voters instead of Republicans, implying respondents' argument is politically motivated.
+    * Thomas seems to disagree with the idea that SCOTUS doesn't normally second guess state court interpretations of their constitutions citing _Baker v. Carr_[^29], and questions where the NC Supreme Court's authority the regulate federal elections is from. He also seems to share a concern with Gorsuch that the NCSC ruling would be different if the legislature favored minority voters instead of Republicans, implying respondents' argument is politically motivated.
 * Respondents 2 (Verrilli)
     * He asked how respondents would articulate the sky-high standard being discussed for when SCOTUS can review cases.
 * Solicitor General
@@ -203,7 +209,7 @@ Here we'll break down each judge's questions from oral arguments. Firstly though
 **Barrett**
 
 * Petitioners
-    * Barrett seemed quite skeptical of the petitioners. She was skeptical that the petitioner's argument was simply working around court precedents without a sound basis and was cherry-picking historical quotes. She was also concerned that they were arguing "free and fair elections" is unmanageable, but their substance/procedure distinction is a very tough line to draw as well. She also wasn't sure about the idea that constitutions are more problematic due to entrenchment when they can be changed via referenda.
+    * Barrett seemed quite skeptical of the petitioners. She was suspicious that the petitioner's argument was simply working around court precedents without a sound basis and was cherry-picking historical quotes. She was also concerned that they were arguing "free and fair elections" is unmanageable, but their substance/procedure distinction is a very tough line to draw as well. She also wasn't sure about the idea that constitutions are more problematic due to entrenchment when they can be changed via referenda.
 * Respondents 1 (Katyal)
     * She says that the way she's thinking about this is essentially that a state court can't interpret a law so wrongly that it's no longer doing judicial review and instead acting as a legislature, because that would violate the Elections Clause saying laws must be prescribed "by the legislature." Respondents agree with that but would be even more deferential to state courts.
 * Respondents 2 (Verrilli)
@@ -226,7 +232,7 @@ Here we'll break down each judge's questions from oral arguments. Firstly though
 
 #### Notes 
 
-The following probabilities are contingent on SCOTUS issuing a ruling on this case. An updated numerical forecast on that happening, particularly in light of the NC Supreme Court's decision to rehear *Harper v Hall*, is forthcoming.
+The following probabilities are contingent on SCOTUS issuing a ruling on this case. An updated numerical forecast on that happening, particularly in light of the NC Supreme Court's decision to rehear *Harper v Hall*, may be forthcoming.
 
 There are a wide variety of possible rulings that SCOTUS could issue, including restrictions on the sources and methods state courts can use to interpret state laws, restrictions on when state courts can intervene, and restrictions on actions that state courts can take. This makes it difficult to define narrow questions on the outcome of the case that can be numerically forecasted. Instead, we seek to bucket some of the likely rulings and forecast those buckets.
 
@@ -359,7 +365,7 @@ This post was written by Greg Justice, in collaboration with @belikewater. Thank
 
 [^28]: He's responding here to the idea that vague state constitutional clauses are categorically unenforceable.
 
-[^29]: _Baker v. Carr_ was a SCOTUS case from 1962. By 1961, Tennessee had failed to redistrict for 60 years, resulting in districts with vastly different populations, diluting some citizens' votes. SCOTUS ruled that vote dilution from such malapportionment violates the 14th amendment Equal Protection Clause. _Baker v. Carr_ ruled that a state statute, Tennessee's 1901 map being used in 1961, violates federal law. It didn't "second-guess state court interpretations of their own constitution" as Justice Thomas seems to suggest. So to me it's not entirely clear what parallel he's trying to draw.
+[^29]: _Baker v. Carr_ was a SCOTUS case from 1962. By 1961, Tennessee had failed to redistrict for 60 years, resulting in districts with vastly different populations, diluting some citizens' votes. SCOTUS ruled that vote dilution from such malapportionment violates the 14th amendment Equal Protection Clause. _Baker v. Carr_ ruled that a state statute, Tennessee's 1901 map being used in 1961, violates federal law. It didn't appear to "second-guess state court interpretations of their own constitution" as Justice Thomas seems to suggest. So to me it's not entirely clear what parallel he's trying to draw.
 
 [^30]: This federal statute determines what happens when reapportionment occurs but a state fails to draw new districts, especially if they gain or lose seats and their old maps have the wrong number of districts.
 
