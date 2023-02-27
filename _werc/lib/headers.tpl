@@ -23,6 +23,14 @@
 %   cat $h
 
     %($"extraHeaders%)
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta property="og:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=/">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Samotsvety Forecasting" />
+    <meta name="twitter:description" content="Samotsvety Forecasting " />
+    <meta name="twitter:url" content="https://samotsvety.org/" />
+    <meta name="twitter:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=/" />
+    <meta name="twitter:site" content="@SamotsvetyF" />
 
 </head>
 <body>
