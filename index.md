@@ -1,7 +1,7 @@
 We are a group of forecasters with a great track record working on applying forecasting to impactful questions. We hope to improve the forecasting ecosystem.
 
 <figure >
-<img src="https://i.imgur.com/uje32ZQ.jpg" alt="Samotsvety Soviet Band" class="img-frontpage-center">
+<img src="https://i.imgur.com/NH86bCh.png" alt="Samotsvety Soviet Band" class="img-frontpage-center">
 
 <figcaption>Wait, no, we are a forecasting team, not a Soviet Union band.</figcaption>
 </figure>
