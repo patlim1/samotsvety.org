@@ -12,6 +12,13 @@
     <meta charset="UTF-8">
 % # Legacy charset declaration for backards compatibility with non-html5 browsers.
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta property="og:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=%($req_path%)">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Samotsvety Forecasting" />
+    <meta name="twitter:description" content="%($pageTitle%)" />
+    <meta name="twitter:url" content="https://samotsvety.org/" />
+    <meta name="twitter:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=%($req_path%)" />
+    <meta name="twitter:site" content="@SamotsvetyF" />
 
 % if(! ~ $#meta_description 0)
 %   echo '    <meta name="description" content="'$"meta_description'">'
@@ -23,14 +30,11 @@
 %   cat $h
 
     %($"extraHeaders%)
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta property="og:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=/">
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Samotsvety Forecasting" />
-    <meta name="twitter:description" content="Samotsvety Forecasting " />
-    <meta name="twitter:url" content="https://samotsvety.org/" />
-    <meta name="twitter:image" content="https://cards.samotsvety.org/api/dynamic-image?endpoint=/" />
-    <meta name="twitter:site" content="@SamotsvetyF" />
+    <script data-isso="//comments.nunosempere.com/"   src="//comments.nunosempere.com/js/embed.min.js"></script>
+
+% # To add math
+% # <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+% # <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 </head>
 <body>
