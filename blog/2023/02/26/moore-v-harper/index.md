@@ -304,7 +304,7 @@ Courts and legislatures are subject to different norms in different states, but 
 
 ### Acknowledgments 
 
-This post was written by Greg Justice, in collaboration with @belikewater. Big thanks to Misha for setting up the collaboration that led to this paper, for connecting me with outside experts, and for his consistent support, input, and encouragement throughout the months-long writing process, to @belikewater for leading the original discussions of the case and helping to develop the main arguments, to Nuño Sempere for his feedback and editing assistance, to Samotsvety forecasters for contributing their thoughts and forecasts, and to Christoph Winter, Aaron Hamlin, and Richard Winger for their comments and suggestions.
+This post was written by Greg Justice, in collaboration with @belikewater. Big thanks to Misha Yagudin for setting up the collaboration that led to this paper, for connecting me with outside experts, and for his consistent support, input, and encouragement throughout the months-long writing process, to @belikewater for leading the original discussions of the case and helping to develop the main arguments, to Nuño Sempere for his feedback and editing assistance, to Jared Leibowich and other Samotsvety forecasters for contributing their thoughts and forecasts, and to Christoph Winter, Aaron Hamlin, and Richard Winger for their comments and suggestions.
 
 <!-- Footnotes themselves at the bottom. -->
 ### Footnotes
