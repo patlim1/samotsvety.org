@@ -1,7 +1,7 @@
-[DRAFT] Report on Moore v. Harper and the future of US democracy
+[Draft] Report on Moore v. Harper and the future of US democracy
 ================================================================
 
-## Disclaimers
+### Disclaimers
 
 The probabilities listed are contingent on SCOTUS issuing a ruling on this case. An updated numerical forecast on that happening, particularly in light of the NC Supreme Court's decision to rehear *Harper v Hall*, may be forthcoming.
 
