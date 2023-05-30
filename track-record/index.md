@@ -122,13 +122,13 @@ For each forecaster below, the time at which their profile was last updated is i
 - Recently, also forecasting at INFER, Metaculus, Manifold Markets
 - Superforecaster™
 
-#### Tolga Bilge<sup>2022-09-15</sup>
+#### Tolga Bilge<sup>2023-05-30</sup>
 
 - Mathematics student
 - GJI Superforecaster
 - Forecaster for the [Swift Centre](https://swiftcentre.org)
 - [GJOpen](https://www.gjopen.com/forecaster/Tolga) Brier score 0.164 vs. 0.254 median, ratio 0.65
-- Forecaster on [INFER](https://www.infer-pub.com/forecaster/Tolga)
+- 2023 Pro Forecaster on [INFER](https://www.infer-pub.com/forecaster/Tolga)
 
 #### Vidur Kapur<sup>2032-01-22</sup>
 
