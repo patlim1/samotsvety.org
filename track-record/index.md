@@ -58,7 +58,8 @@ For each forecaster below, the time at which their profile was last updated is i
 - Pro forecaster on [INFER](https://www.infer-pub.com/forecaster/JonathanMann/performance)
 - [About + Github](https://jonathanmann.github.io/about/)
 - Superforecaster™
-
+- INFER All-Star
+- 
 #### Juan Cambeiro<sup>2022-09-15</sup>
 
 - MPH student in epidemiology at Columbia University
@@ -104,6 +105,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - [GJO](https://www.gjopen.com/forecaster/jleibowich) Brier score 0.22 vs. 0.303 median, ratio 0.73
 - Placed 1st out of 7,000 ["In the News 2021" Good Judgment competition](https://www.gjopen.com/leaderboards/challenges/47-in-the-news-2021)
 - Currently ranked 1st out of 3,000 ["In the News 2022" Good Judgment competition](https://www.gjopen.com/leaderboards/challenges/57-in-the-news-2022)
+- Superforecaster™
 
 #### Greg Justice<sup>2022-09-15</sup>
 
@@ -121,6 +123,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - [GJOpen](https://www.gjopen.com/forecaster/belikewater) Brier score 0.208 vs. 0.253 median, ratio 0.82
 - Recently, also forecasting at INFER, Metaculus, Manifold Markets
 - Superforecaster™
+- INFER Pro forecaster
 
 #### Tolga Bilge<sup>2023-05-30</sup>
 
