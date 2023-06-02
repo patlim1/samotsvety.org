@@ -27,15 +27,15 @@ Individually, Samotsvety members are, as of 2022-09-15, occupying all top 4 spot
 
 For each forecaster below, the time at which their profile was last updated is indicated in a superscript.
 
-#### Misha Yagudin<sup>2022-09-15</sup>
+#### Misha Yagudin<sup>2023-05-27</sup>
 - Runs a research consultancy [Arb Research](https://arbresearch.com/)
-- [GJOpen](https://www.gjopen.com/forecaster/yagudin) Brier score 0.191 vs. 0.283 median, ratio 0.67
+- [GJOpen](https://www.gjopen.com/forecaster/yagudin) Brier score 0.185 vs. 0.275 median, ratio 0.67
 - 7th and 3rd place forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1), [II](https://www.infer-pub.com/leaderboards/seasons/2)); [3rd](https://www.infer-pub.com/forecaster/yagudin/performance?alltime=true) all-time (as of 2022/9/15).
 
-#### Nuño Sempere<sup>2022-09-15</sup>
+#### Nuño Sempere<sup>2023-05-27</sup>
 
 - Researcher at the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/)
-- [GJOpen](https://www.gjopen.com/forecaster/LokiOdinevich) Brier score 0.209 vs. 0.294 median, ratio 0.71
+- [GJOpen](https://www.gjopen.com/forecaster/LokiOdinevich) Brier score 0.206 vs. 0.29 median, ratio 0.71
 - Top 5 forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1),[II](https://www.infer-pub.com/leaderboards/seasons/2)); [4th](https://www.infer-pub.com/forecaster/loki/performance?alltime=true) all-time (as of 2022/9/15)
 
 #### Alex Lyzhov<sup>2022-09-15</sup>
@@ -52,13 +52,14 @@ For each forecaster below, the time at which their profile was last updated is i
 - 2nd in Metaculus [Economist 2021 tournament](https://www.metaculus.com/questions/11438/economist-2021-tournament-winners/), 1st in [Salk Tournament](https://pandemic.metaculus.com/contests/?selected=salk-tournament) (as of 2022/9/10).
 - Track record is described in detail [here](https://www.lesswrong.com/posts/XAkhqkNQByEaT8MED/personal-forecasting-retrospective-2020-2022)
 
-#### Jonathan Mann<sup>2022-09-15</sup>
+#### Jonathan Mann<sup>2023-05-27</sup>
 
 - Professional in the financial sector
-- [GJOpen](https://www.gjopen.com/forecaster/JonathanMann) Brier score 0.155 vs. 0.247 median, ratio 0.63
+- [GJOpen](https://www.gjopen.com/forecaster/JonathanMann) Brier score 0.156 vs. 0.246 median, ratio 0.63
 - Pro forecaster on [INFER](https://www.infer-pub.com/forecaster/JonathanMann/performance)
 - [About + Github](https://jonathanmann.github.io/about/)
 - Superforecaster™
+- INFER All-Star
 
 #### Juan Cambeiro<sup>2022-09-15</sup>
 
@@ -115,21 +116,23 @@ For each forecaster below, the time at which their profile was last updated is i
  (as of 2022-09-11)
 - 4th place - Olivier Sibony's Noise challenge on GJ Open (as of 2022-09-11)
 - 7th place - Good Judgment Project 2.0, in initial accuracy (as of 2022-09-11)
+- Superforecaster™
 
 #### @belikewater<sup>2022-09-15</sup>
 
 - MA in Economics, PhD in Neuroscience
-- [GJOpen](https://www.gjopen.com/forecaster/belikewater) Brier score 0.215 vs. 0.279 median, ratio 0.77
+- [GJOpen](https://www.gjopen.com/forecaster/belikewater) Brier score 0.208 vs. 0.253 median, ratio 0.82
 - Recently, also forecasting at INFER, Metaculus, Manifold Markets
 - Superforecaster™
+- INFER Pro forecaster
 
-#### Tolga Bilge<sup>2022-09-15</sup>
+#### Tolga Bilge<sup>2023-05-30</sup>
 
 - Mathematics student
 - GJI Superforecaster
 - Forecaster for the [Swift Centre](https://swiftcentre.org)
 - [GJOpen](https://www.gjopen.com/forecaster/Tolga) Brier score 0.164 vs. 0.254 median, ratio 0.65
-- Forecaster on [INFER](https://www.infer-pub.com/forecaster/Tolga)
+- 2023 Pro Forecaster on [INFER](https://www.infer-pub.com/forecaster/Tolga)
 
 #### Vidur Kapur<sup>2032-01-22</sup>
 
