@@ -38,13 +38,13 @@ For each forecaster below, the time at which their profile was last updated is i
 - [GJOpen](https://www.gjopen.com/forecaster/LokiOdinevich) Brier score 0.206 vs. 0.29 median, ratio 0.71
 - Top 5 forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1),[II](https://www.infer-pub.com/leaderboards/seasons/2)); [4th](https://www.infer-pub.com/forecaster/loki/performance?alltime=true) all-time (as of 2022/9/15)
 
-#### Alex Lyzhov<sup>2022-09-15</sup>
+#### Alex Lyzhov<sup>2023-05-27</sup>
 
 - ML PhD student at NYU
 - Participates primarily in AI-related forecasts due to expertise
 - Active Metaculus [contributor](https://www.metaculus.com/accounts/profile/103447/)
 
-#### Eli Lifland<sup>2022-09-15</sup>
+#### Eli Lifland<sup>2023-05-27</sup>
 
 - Figuring out what's up with AI alignment (and sometimes other stuff), writing [Foxy Scout](https://www.foxy-scout.com/).
 - [GJOpen](https://www.gjopen.com/forecaster/elifland) Brier score 0.23 vs. 0.301 median, ratio 0.76
@@ -61,7 +61,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - Superforecaster™
 - INFER All-Star
 
-#### Juan Cambeiro<sup>2022-09-15</sup>
+#### Juan Cambeiro<sup>2023-05-27</sup>
 
 - MPH student in epidemiology at Columbia University
 - Biosecurity fellow at the Institute for Progress
@@ -73,25 +73,25 @@ For each forecaster below, the time at which their profile was last updated is i
 - Second in [Good Judgment Open's In the News 2020 challenge](https://www.gjopen.com/challenges/36-in-the-news-2020/scores)
 - First in the time active on [Good Judgment Open's Coronavirus Outbreak challenge](https://www.gjopen.com/challenges/43-coronavirus-outbreak/scores), now third
 
-#### Sam Glover<sup>2022-09-15</sup>
+#### Sam Glover<sup>2023-05-27</sup>
 
 - Writes about social science at [samstack.io](https://www.samstack.io)
 - [Good Judgment](https://www.gjopen.com/) Superforecaster
 - GJOpen [Brier score](https://www.gjopen.com/forecaster/samglover97) 0.228vs 0.309 median, ratio 0.74, increased significantly since becoming inactive in late 2021
 
-#### Molly Hickman<sup>2022-09-15</sup>
+#### Molly Hickman<sup>2023-05-27</sup>
 
 - Data scientist at [nLine, Inc.](https://nline.io/), and previously worked on crowd-sourced prediction projects on the evaluation side.
 - [Top 2](https://www.infer-pub.com/forecaster/mollygh) forecaster of all time on [INFER](https://www.infer-pub.com/) (as of 2022/9/15); [2nd place forecaster in season 2021](https://www.infer-pub.com/leaderboards/seasons/2) (-1.684 relative Brier score); [8th place forecaster in season 2020](https://www.infer-pub.com/leaderboards/seasons/1) (-0.529 relative Brier score)
 
-#### Gregory Lewis<sup>2022-09-15</sup>
+#### Gregory Lewis<sup>2023-05-27</sup>
 
 - Ex public health doctor, now working in biosecurity
 - [Good Judgment](https://www.gjopen.com/) Superforecaster (since 2021)
 - [GJOpen](https://www.gjopen.com/forecaster/Gjlewis) Brier score 0.226 vs. 0.313 median, ratio 0.72
 
 
-#### Pablo Stafforini<sup>2022-09-15</sup>
+#### Pablo Stafforini<sup>2023-05-27</sup>
 
 - Philosopher by training, currently editor of the *Global Priorities Encyclopedia*.
 - 1st place in Road to Recovery tournament
@@ -99,7 +99,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - 1st place in Li Wenliang Forecasting Tournament II tournament
 - See [my Metaculus profile](https://www.metaculus.com/accounts/profile/101341/) for additional information.
 
-#### Jared Leibowich<sup>2022-09-15</sup>
+#### Jared Leibowich<sup>2023-05-27</sup>
 
 - Data Scientist
 - Forecaster for the [Swift Centre](https://www.swiftcentre.org/)
@@ -108,7 +108,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - Currently ranked 1st out of 3,000 ["In the News 2022" Good Judgment competition](https://www.gjopen.com/leaderboards/challenges/57-in-the-news-2022)
 - Superforecaster™
 
-#### Greg Justice<sup>2022-09-15</sup>
+#### Greg Justice<sup>2023-05-27</sup>
 
 - Analyst in the healthcare space
 - [GJOpen](https://www.gjopen.com/forecaster/slapthepancake) Brier score 0.187 vs. 0.251 median, ratio 0.75
@@ -118,7 +118,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - 7th place - Good Judgment Project 2.0, in initial accuracy (as of 2022-09-11)
 - Superforecaster™
 
-#### @belikewater<sup>2022-09-15</sup>
+#### @belikewater<sup>2023-05-27</sup>
 
 - MA in Economics, PhD in Neuroscience
 - [GJOpen](https://www.gjopen.com/forecaster/belikewater) Brier score 0.208 vs. 0.253 median, ratio 0.82
@@ -126,7 +126,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - Superforecaster™
 - INFER Pro forecaster
 
-#### Tolga Bilge<sup>2023-05-30</sup>
+#### Tolga Bilge<sup>2023-05-27</sup>
 
 - Mathematics student
 - GJI Superforecaster
@@ -134,7 +134,7 @@ For each forecaster below, the time at which their profile was last updated is i
 - [GJOpen](https://www.gjopen.com/forecaster/Tolga) Brier score 0.164 vs. 0.254 median, ratio 0.65
 - 2023 Pro Forecaster on [INFER](https://www.infer-pub.com/forecaster/Tolga)
 
-#### Vidur Kapur<sup>2032-01-22</sup>
+#### Vidur Kapur<sup>2023-05-27</sup>
 
 - Holds degrees in Medicine and Public Health
 - Good Judgment Superforecaster
