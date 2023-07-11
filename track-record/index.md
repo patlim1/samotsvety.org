@@ -34,7 +34,7 @@ For each forecaster below, the time at which their profile was last updated is i
 
 #### Nuño Sempere<sup>2023-05-27</sup>
 
-- Researcher at the [Quantified Uncertainty Research Institute](https://quantifieduncertainty.org/)
+- Indepedent consultant at [Shapley Maximizers ÖU](https://nunosempere.com/consulting/), previously a researcher at the Quantified Uncertainty Research Institute.
 - [GJOpen](https://www.gjopen.com/forecaster/LokiOdinevich) Brier score 0.206 vs. 0.29 median, ratio 0.71
 - Top 5 forecaster in the first two seasons of CSET-Foretell/INFER ([I](https://www.infer-pub.com/leaderboards/seasons/1),[II](https://www.infer-pub.com/leaderboards/seasons/2)); [4th](https://www.infer-pub.com/forecaster/loki/performance?alltime=true) all-time (as of 2022/9/15)
 
@@ -81,7 +81,7 @@ For each forecaster below, the time at which their profile was last updated is i
 
 #### Molly Hickman<sup>2023-05-27</sup>
 
-- Data scientist at [nLine, Inc.](https://nline.io/), and previously worked on crowd-sourced prediction projects on the evaluation side.
+- Data analyst at the [Forecasting Research Institute](https://forecastingresearch.org/)
 - [Top 2](https://www.infer-pub.com/forecaster/mollygh) forecaster of all time on [INFER](https://www.infer-pub.com/) (as of 2022/9/15); [2nd place forecaster in season 2021](https://www.infer-pub.com/leaderboards/seasons/2) (-1.684 relative Brier score); [8th place forecaster in season 2020](https://www.infer-pub.com/leaderboards/seasons/1) (-0.529 relative Brier score)
 
 #### Gregory Lewis<sup>2023-05-27</sup>
