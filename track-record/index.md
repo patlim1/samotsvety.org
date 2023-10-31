@@ -111,7 +111,7 @@ For each forecaster below, the time at which their profile was last updated is i
 #### Greg Justice<sup>2023-10-31</sup>
 
 - MBA candidate at Chicago Booth
-- [GJOpen](https://www.gjopen.com/forecaster/slapthepancake) Brier score 0.191 vs. 0.251 median, ratio 0.76
+- [GJOpen](https://www.gjopen.com/forecaster/gjusticea) Brier score 0.191 vs. 0.251 median, ratio 0.76
 - 1st place in Adam Grant's Think Again challenge on GJ Open
 - 4th place in Harvard Kennedy School challenge (2022) on GJ Open
 - 7th place for initial accuracy in Good Judgment Project 2.0 (GJP 2.0) COVID-19 forecasting tournament
