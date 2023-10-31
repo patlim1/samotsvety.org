@@ -108,15 +108,13 @@ For each forecaster below, the time at which their profile was last updated is i
 - Currently ranked 1st out of 3,000 ["In the News 2022" Good Judgment competition](https://www.gjopen.com/leaderboards/challenges/57-in-the-news-2022)
 - Superforecaster™
 
-#### Greg Justice<sup>2023-05-27</sup>
+#### Greg Justice<sup>2023-10-31</sup>
 
-- Analyst in the healthcare space
-- [GJOpen](https://www.gjopen.com/forecaster/slapthepancake) Brier score 0.187 vs. 0.251 median, ratio 0.75
-- 1st place in [Adam Grant's Think Again challenge on GJ Open](https://adamgrant.bulletin.com/how-to-be-less-wrong)
- (as of 2022-09-11)
-- 4th place - Olivier Sibony's Noise challenge on GJ Open (as of 2022-09-11)
-- 7th place - Good Judgment Project 2.0, in initial accuracy (as of 2022-09-11)
-- Superforecaster™
+- MBA candidate at Chicago Booth
+- [GJOpen](https://www.gjopen.com/forecaster/slapthepancake) Brier score 0.191 vs. 0.251 median, ratio 0.76
+- 1st place in Adam Grant's Think Again challenge on GJ Open
+- 4th place in Harvard Kennedy School challenge (2022) on GJ Open
+- 7th place for initial accuracy in Good Judgment Project 2.0 (GJP 2.0) COVID-19 forecasting tournament
 
 #### @belikewater<sup>2023-05-27</sup>
 
