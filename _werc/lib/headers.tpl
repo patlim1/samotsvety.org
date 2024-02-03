@@ -36,6 +36,16 @@
 % # <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 % # <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<link rel="stylesheet" type="text/css" href="https://images.nunosempere.com/fonts/computer-modern/font.css">
+
+<style>
+/* @import url("https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/font/Serif/cmun-serif.css"); */
+
+body {
+  font-family: "Computer Modern Serif", serif;
+}
+</style>
+
 </head>
 <body>
 
