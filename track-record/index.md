@@ -2,9 +2,9 @@
 
 The Samotsvety Forecasting team at INFER/CSET-Foretell—composed out of Nuño, Misha, Eli—took:
 
-- [1st place in 2020](https://www.infer-pub.com/leaderboards/teams?seasonid=1), with a relative score of -0.912 (vs. -0.062 by the 2nd best team). Individually we finished [5th, 6th, and 7th](https://www.infer-pub.com/leaderboards/seasons/1).
-- [1st place in 2021](https://www.infer-pub.com/leaderboards/teams?seasonid=2) with a relative score of -2.43 (vs. -1.039 by the 2nd best team and vs. 0.064 by “2021 Pro Forecasters”). Individually we finished [1st, 3rd, and 4th](https://www.infer-pub.com/leaderboards/seasons/2).
-- We still hold [1st place in 2022](https://www.infer-pub.com/leaderboards/teams?seasonid=3), despite us reducing our participation.
+- [1st place in 2020](https://www.infer-pub.com/leaderboards/teams?season_id=1), with a relative score of -0.912 (vs. -0.062 by the 2nd best team). Individually we finished [5th, 6th, and 7th](https://www.infer-pub.com/leaderboards/seasons/1).
+- [1st place in 2021](https://www.infer-pub.com/leaderboards/teams?season_id=2) with a relative score of -2.43 (vs. -1.039 by the 2nd best team and vs. 0.064 by “2021 Pro Forecasters”). Individually we finished [1st, 3rd, and 4th](https://www.infer-pub.com/leaderboards/seasons/2).
+- We still hold [1st place in 2022](https://www.infer-pub.com/leaderboards/teams?season_id=3), despite us reducing our participation.
 - A few of our forecasters have now become Superforecasters™, indicated below.
 
 The above links require signing in, so here is a screenshot of our performance in the 2021 season:
